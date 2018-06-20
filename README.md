@@ -1,5 +1,5 @@
 # Journal
-## Henrik andersson Qvarfordt
+* Henrik andersson Qvarfordt
 School assignment - Fend17 - PHP
 
 
